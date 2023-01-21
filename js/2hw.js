@@ -40,6 +40,6 @@ console.log(fullName)
 
 
 const userName = "Борис";
-const payment = "500$"
-const resultOf = `Дякуємо, ${userName}! До сплати ${payment}`
+const payment = "500$";
+const resultOf = `Дякуємо, ${userName}! До сплати ${payment}`;
 alert(resultOf);
