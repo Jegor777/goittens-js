@@ -67,6 +67,7 @@ switch (lang) {
         break;
 }
 
+
 // const salary = 2500;
 // // let message;
 
