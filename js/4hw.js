@@ -23,3 +23,15 @@ while (num < 28) {
     num += 1;
     console.log(num);
 }
+
+
+let name1 = prompt("Type your favorite super hero");
+
+while (name1.length < 6) {
+    console.log(name1);
+    name1 = prompt("Type your favorite super hero ");
+
+    
+} if (name1.length >= 6) {
+        alert(`Name ${name1} your name very big`);
+    }
