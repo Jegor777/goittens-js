@@ -19,6 +19,8 @@ for (let i = min;i <=max; i  += 1) {
 
 let num = 20;
 
+
+
 while (num < 28) {
     num += 1;
     console.log(num);
