@@ -14,7 +14,10 @@
     font-size: 54px;
     color: blue;
   }
-
+.title{
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
   .highlight{
     font-size: 40px;
     color: brown;
@@ -22,4 +25,13 @@
 
   style{
     background-color: lightblue;
+  }
+  .color-picker__option {
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    margin: 4px;
+    border: none;
+    outline: none;
+    cursor: pointer;
   }
